@@ -6,4 +6,5 @@ Thành viên đóng góp:
 
 Nhan Huỳnh Đức
 
-
+-----
+Chạy file `index.html` để bắt đầu xem trang web
